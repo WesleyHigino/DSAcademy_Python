@@ -1,0 +1,2 @@
+Este livro vai abordar desde o básico em redes neurais artificias, modelos Perceptron e Multilayer Perceptron, 
+passando pelo processo de treinamento com Backpropagation.
